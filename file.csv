@@ -1,0 +1,10 @@
+client_id,action,timestamp
+1,view_product,2022-01-01 10:00:00
+2,add_to_cart,2022-01-01 10:05:00
+1,view_product,2022-01-01 10:10:00
+3,purchase,2022-01-01 10:15:00
+2,purchase,2022-01-01 10:20:00
+1,add_to_cart,2022-01-01 10:25:00
+2,add_to_cart,2022-01-01 10:30:00
+1,purchase,2022-01-01 10:35:00
+3,view_product,2022-01-01 10:40:00
